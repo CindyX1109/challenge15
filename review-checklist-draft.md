@@ -1,0 +1,3 @@
+- [ ] run tests
+- [ ] preview changes on staging server
+- [ ] review styleguide
